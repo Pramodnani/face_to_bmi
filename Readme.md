@@ -19,7 +19,7 @@ To get things started you need to install following softwares and packages:
 ### Installing
 Anaconda:
 ```
-Go to the Anaconda Website and choose a Python 3.x graphical installer according to the Operating system you are using 
+Go to the Anaconda Website and choose a Python 3.x graphical installer according to the Operating system you are using.
 ```
 ```
 Remaining Packages can be installed with pip package provided by the Anaconda software 
@@ -30,7 +30,7 @@ Remaining Packages can be installed with pip package provided by the Anaconda so
 All the datasets I used in this project are not public. Please try with your own dataset.
 
 
-## Models used
+### Models used
 ```
 Machine learning models:
 Ridge Regression, Decision tree Regressor, support vector Regressor , Adaboost
